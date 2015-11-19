@@ -1,0 +1,37 @@
+id = "Email", "email", "__w2_fs0b6zh_email", "login_field", "login_user_email", "login1", "usernameId", "username"
+
+
+gmail
+
+<input id="Email" name="Email" type="email" class="email-input hidden" placeholder="Email" value="sravi.roshan@gmail.com" spellcheck="false" readonly="">
+<input id="Passwd" name="Passwd" type="password" placeholder="Password" class="">
+<input id="signIn" name="signIn" class="rc-button rc-button-submit" type="submit" value="Sign in">
+
+facebook
+<input type="email" class="inputtext" name="email" id="email" value="" tabindex="1">
+<input type="password" class="inputtext" name="pass" id="pass" tabindex="2">
+<input value="Log In" tabindex="4" type="submit" id="u_0_0">
+
+quora
+<input class="text header_login_text_box ignore_interaction" group="__w2_fs0b6zh_interaction" type="text" placeholder="Email" name="email" tabindex="1" w2cid="fs0b6zh" id="__w2_fs0b6zh_email">
+<input class="text header_login_text_box ignore_interaction" group="__w2_fs0b6zh_interaction" type="password" placeholder="Password" name="password" tabindex="2" w2cid="fs0b6zh" id="__w2_fs0b6zh_password">
+<input class="submit_button ignore_interaction submit_button_disabled" group="__w2_gTqbSwX_interaction" type="submit" value="Login" tabindex="4" w2cid="gTqbSwX" id="__w2_gTqbSwX_submit_button">
+
+github
+<input autocapitalize="off" autocorrect="off" autofocus="autofocus" class="input-block" id="login_field" name="login" tabindex="1" type="text">
+<input class="input-block" id="password" name="password" tabindex="2" type="password">
+<input class="btn" data-disable-with="Signing in…" name="commit" tabindex="3" type="submit" value="Sign in">
+
+tvfplay
+<input type="text" name="user_email" id="login_user_email" value="" autocomplete="off" placeholder="Email*" title="">
+<input type="password" name="user_password" id="user_password" value="" autocomplete="off" placeholder="Password*" title="">
+<input type="submit" name="btn_login_submit" id="btn_login_submit" title="" value="Sign In">
+
+rediffmail
+<input type="text" id="login1" maxlength="30" name="login" value="" style="_width: 243px;" tabindex="1" onblur="fieldTrack(this);">
+<input type="password" id="password" name="passwd" value="" style="_width: 243px;" tabindex="2" onblur="fieldTrack(this);">
+<input type="submit" name="proceed" value="Go" title="Sign in" tabindex="4">
+
+irctc
+<input type="text" name="j_username" id="usernameId" class="loginUserId" autocomplete="off" size="15" maxlength="35" tabindex="1" />
+<input type="password" name="j_password" class="loginPassword" autocomplete="off" size="15" maxlength="15" tabindex="2" />
